@@ -7,3 +7,7 @@ gradlew clean bulid
 ```
 gradlew bootrun
 ```
+### JDK version
+```
+jdk 1.8
+```
