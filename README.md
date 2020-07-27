@@ -2,7 +2,10 @@
 
 
 In command prompt open the project
+
+it will look like below
 \vivanaturalsapi>
+
 type command
 
 gradlew clean
