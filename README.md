@@ -1,18 +1,9 @@
 # vivanaturalsapi
-
-
-In command prompt open the project
-
-it will look like
-
-\vivanaturalsapi>
-
-type command
-
-gradlew clean
-
-gradlew build
-
+## Project setup
+```
+gradlew clean bulid
+```
+### Run the Project
+```
 gradlew bootrun
-
-the application will run on 8085 port
+```
